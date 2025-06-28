@@ -36,7 +36,7 @@ shiny::runApp("app.R")
 Acesse o app direto pelo navegador:
 🔗 https://edulasalle.shinyapps.io/previsao-defeitos
 
-# As análises descritivas e gráficas estão no arquivo graficos.R:
+1. As análises descritivas e gráficas estão no arquivo graficos.R:
 ```r
 source("graficos.R")
 ```
